@@ -1,0 +1,514 @@
+.actualizar {
+  position: absolute;
+  top: 298px;
+  left: 84px;
+  line-height: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+.tus-vegetales {
+  position: absolute;
+  top: 327px;
+  left: 37px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  color: var(--text-1);
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--white);
+  box-shadow: var(--small);
+  width: 343px;
+  height: 72px;
+}
+.div36,
+.eggplant3 {
+  position: absolute;
+  top: 18px;
+  font-weight: 900;
+}
+.eggplant3 {
+  left: 68px;
+}
+.div36 {
+  right: 23px;
+  color: var(--color-darkslategray-100);
+}
+.div37,
+.doge {
+  position: absolute;
+  font-size: var(--font-size-3xs);
+}
+.doge {
+  top: 41px;
+  left: 68px;
+  font-weight: 900;
+  color: var(--text-3);
+}
+.div37 {
+  top: 42px;
+  right: 15px;
+  font-weight: 500;
+  color: var(--green);
+}
+.group-child4 {
+  position: absolute;
+  top: 22.88px;
+  left: 180.61px;
+  width: 50.8px;
+  height: 27.74px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 240px;
+  right: 0;
+  width: 343px;
+  height: 72px;
+  cursor: pointer;
+}
+.div38 {
+  top: 18px;
+  right: 26px;
+  font-weight: 900;
+  color: var(--color-darkslategray-100);
+}
+.ada,
+.div38,
+.div39 {
+  position: absolute;
+}
+.ada {
+  top: 41px;
+  left: 68px;
+  font-size: 8px;
+  font-weight: 900;
+  color: var(--text-3);
+}
+.div39 {
+  top: 42px;
+  right: 13px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  color: var(--green);
+}
+.group-child6 {
+  position: absolute;
+  top: 22.38px;
+  left: 180.59px;
+  width: 50.8px;
+  height: 27.74px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 343px;
+  height: 72px;
+  cursor: pointer;
+}
+.div40,
+.div41 {
+  position: absolute;
+  top: 18px;
+  right: 28px;
+  font-weight: 900;
+  color: var(--color-darkslategray-100);
+}
+.div41 {
+  top: 42px;
+  right: 20px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  color: var(--green);
+}
+.group-child8 {
+  position: absolute;
+  top: 20.98px;
+  left: 180.72px;
+  width: 50.72px;
+  height: 26.95px;
+}
+.group-wrapper,
+.rectangle-parent4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 343px;
+  height: 72px;
+}
+.group-wrapper {
+  cursor: pointer;
+}
+.div43 {
+  position: absolute;
+  top: 42px;
+  right: 16px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  color: var(--red);
+}
+.group-child10 {
+  position: absolute;
+  top: 22.98px;
+  left: 180.57px;
+  width: 50.72px;
+  height: 26.95px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 160px;
+  right: 0;
+  width: 343px;
+  height: 72px;
+  cursor: pointer;
+}
+.group-parent4 {
+  position: absolute;
+  top: 363px;
+  right: 34px;
+  width: 343px;
+  height: 312px;
+  font-size: var(--font-size-base);
+  color: var(--text-1);
+}
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--primary);
+  box-shadow: var(--small);
+  width: 343px;
+  height: 196px;
+}
+.portfolio {
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  font-size: var(--font-size-xl);
+}
+.b,
+.holding-value {
+  position: absolute;
+  left: 0;
+}
+.holding-value {
+  top: 0;
+  font-weight: 900;
+}
+.b {
+  top: 15px;
+  font-size: var(--font-size-9xl);
+}
+.holding-value-parent {
+  position: absolute;
+  top: 64px;
+  left: 20px;
+  width: 127px;
+  height: 48px;
+  font-size: var(--font-size-3xs);
+}
+.div44,
+.invested-value {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  font-weight: 500;
+}
+.invested-value {
+  top: 0;
+  font-size: var(--font-size-3xs);
+  font-weight: 900;
+}
+.group,
+.line-div,
+.parent {
+  position: absolute;
+  top: 135px;
+  left: 20px;
+  width: 80px;
+  height: 35px;
+}
+.group,
+.line-div {
+  left: 133px;
+  width: 61px;
+}
+.line-div {
+  top: 133.5px;
+  left: 114.5px;
+  border-right: 1px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+  width: 1px;
+  height: 39px;
+}
+.div46 {
+  position: absolute;
+  top: 93px;
+  left: 154px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-gray-500);
+}
+.group-child12,
+.rectangle-parent6 {
+  position: absolute;
+  width: 343px;
+  height: 196px;
+}
+.rectangle-parent6 {
+  top: 74px;
+  left: 35px;
+  font-size: var(--font-size-lg);
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: #51cf66;
+  box-shadow: var(--small);
+}
+.hs-code-070200-tomatoes-f-parent {
+  position: absolute;
+  top: 64px;
+  left: 20px;
+  width: 211px;
+  height: 48px;
+}
+.usd-carton {
+  margin: 0;
+}
+.usd-carton-box-113398kg-wrapper {
+  position: absolute;
+  top: 120px;
+  left: 22px;
+  width: 241px;
+  height: 24px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 74px;
+  left: 35px;
+  width: 343px;
+  height: 196px;
+  font-size: var(--font-size-3xs);
+}
+.notch-icon4 {
+  position: absolute;
+  width: 100%;
+  top: 1px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 30px;
+}
+.network-signal-light4 {
+  position: relative;
+  width: 20px;
+  height: 14px;
+}
+.battery-light4,
+.wifi-signal-light4 {
+  position: relative;
+  width: 16px;
+  height: 14px;
+}
+.battery-light4 {
+  width: 25px;
+}
+.status-icons4 {
+  position: absolute;
+  top: 16px;
+  right: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.indicator-icon4 {
+  position: absolute;
+  top: 8px;
+  right: 71px;
+  width: 6px;
+  height: 6px;
+}
+.time-light4 {
+  top: 12px;
+  left: 21px;
+  border-radius: var(--br-xl);
+  width: 54px;
+  height: 21px;
+}
+.dark-modeno4,
+.group-icon7,
+.time-light4 {
+  position: absolute;
+  overflow: hidden;
+}
+.dark-modeno4 {
+  width: calc(100% - 39px);
+  top: -1px;
+  right: 16px;
+  left: 23px;
+  height: 44px;
+}
+.group-icon7 {
+  height: 38.37%;
+  width: 7.97%;
+  top: 22.09%;
+  right: 85.02%;
+  bottom: 39.53%;
+  left: 7%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.inicio7 {
+  top: 52px;
+  left: 19px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.inicio7,
+.precios7,
+.usuario7 {
+  position: absolute;
+  width: 53px;
+  height: 15px;
+}
+.usuario7 {
+  top: 53px;
+  left: 102px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.precios7 {
+  top: 52px;
+  left: 281px;
+}
+.clima7,
+.maps7,
+.precios7 {
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.maps7 {
+  position: absolute;
+  top: 52px;
+  left: 347px;
+  width: 53px;
+  height: 15px;
+}
+.clima7 {
+  position: relative;
+  width: 40px;
+  flex-shrink: 0;
+}
+.clima-wrapper5 {
+  position: absolute;
+  top: 42px;
+  left: 184px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.frame-child5,
+.icon-nameprofile-styletrue7 {
+  position: absolute;
+  max-height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+}
+.icon-nameprofile-styletrue7 {
+  height: 38.37%;
+  width: 7.97%;
+  top: 23.26%;
+  right: 64.98%;
+  bottom: 38.37%;
+  left: 27.05%;
+  max-width: 100%;
+}
+.frame-child5 {
+  height: 62.79%;
+  top: 5.81%;
+  bottom: 31.4%;
+  left: 194px;
+  width: 50px;
+}
+.add-location-alt-icon7,
+.chart-line-chart-up7 {
+  position: absolute;
+  top: 22px;
+  left: 291px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.add-location-alt-icon7 {
+  top: 21px;
+  left: 357px;
+  overflow: auto;
+  cursor: pointer;
+}
+.group-parent5,
+.tomato-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.group-parent5 {
+  top: 810px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-firebrick-200);
+  width: 414px;
+  height: 86px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-source-sans-pro);
+}
+.tomato-icon {
+  top: 359px;
+  left: 26px;
+  width: 96px;
+  height: 96px;
+}
+.eggplant-icon1,
+.pepper-icon,
+.ucumber-icon2 {
+  position: absolute;
+  top: 454px;
+  left: 53px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.eggplant-icon1,
+.pepper-icon {
+  top: 530px;
+  left: 51px;
+}
+.eggplant-icon1 {
+  top: 613px;
+  left: 54px;
+}
+.stocks-legumbres {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

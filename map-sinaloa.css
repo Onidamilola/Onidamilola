@@ -1,0 +1,159 @@
+.map-sinaloa-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2000px;
+  height: 2000px;
+  object-fit: cover;
+}
+.mapsplace-24px-icon,
+.marker-invisible-icon {
+  position: absolute;
+  left: 152px;
+  width: 46px;
+  height: 54px;
+}
+.mapsplace-24px-icon {
+  top: 217px;
+  cursor: pointer;
+}
+.marker-invisible-icon {
+  top: 144px;
+  opacity: 0;
+}
+.group-icon2,
+.mapsplace-24px-icon1 {
+  position: absolute;
+  top: 673px;
+  left: 273px;
+  width: 46px;
+  height: 54px;
+}
+.group-icon2 {
+  height: 38.37%;
+  width: 7.97%;
+  top: 22.09%;
+  right: 85.02%;
+  bottom: 39.53%;
+  left: 7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.inicio2 {
+  top: 52px;
+  left: 19px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.inicio2,
+.precios2,
+.usuario2 {
+  position: absolute;
+  width: 53px;
+  height: 15px;
+}
+.usuario2 {
+  top: 53px;
+  left: 102px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.precios2 {
+  top: 52px;
+  left: 281px;
+}
+.clima2,
+.maps2,
+.precios2 {
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+}
+.maps2 {
+  position: absolute;
+  top: 52px;
+  left: 347px;
+  width: 53px;
+  height: 15px;
+}
+.clima2 {
+  position: relative;
+  width: 40px;
+  flex-shrink: 0;
+}
+.clima-frame {
+  position: absolute;
+  top: 42px;
+  left: 184px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.frame-icon,
+.icon-nameprofile-styletrue2 {
+  position: absolute;
+  max-height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+}
+.icon-nameprofile-styletrue2 {
+  height: 38.37%;
+  width: 7.97%;
+  top: 23.26%;
+  right: 64.98%;
+  bottom: 38.37%;
+  left: 27.05%;
+  max-width: 100%;
+}
+.frame-icon {
+  height: 62.79%;
+  top: 5.81%;
+  bottom: 31.4%;
+  left: 194px;
+  width: 50px;
+}
+.add-location-alt-icon2,
+.chart-line-chart-up2 {
+  position: absolute;
+  top: 22px;
+  left: 291px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.add-location-alt-icon2 {
+  top: 21px;
+  left: 357px;
+  overflow: auto;
+}
+.group-container {
+  position: absolute;
+  top: 810px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-firebrick-200);
+  width: 414px;
+  height: 86px;
+  overflow: hidden;
+}
+.map-sinaloa {
+  position: relative;
+  width: 100%;
+  height: 896px;
+  overflow: auto;
+  background-image: url(./public/mapsinaloa@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--white);
+  font-family: var(--font-source-sans-pro);
+}

@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-work-sans: "Work Sans";
+  --main-title: "Public Sans";
+  --font-inter: Inter;
+  --font-abel: Abel;
+  --font-source-sans-pro: "Source Sans Pro";
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-abril-fatface: "Abril Fatface";
+  --font-karla: Karla;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-lgi: 19px;
+  --font-size-mid: 17px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+  --font-size-3xs: 10px;
+  --font-size-2xs: 11px;
+  --font-size-9xl: 28px;
+  --font-size-lg: 18px;
+  --font-size-7xl: 26px;
+  --main-title-size: 27px;
+
+  /* Colors */
+  --white: #fff;
+  --accent-color: #2b4bf2;
+  --high-emphasis: #000;
+  --colors-neutral-gray-3: #999;
+  --color-darkgray-100: #979797;
+  --color-darkgray-200: rgba(153, 153, 153, 0.5);
+  --color-firebrick-100: #b40a0c;
+  --color-firebrick-200: #b20809;
+  --color-whitesmoke-100: #f8f9fa;
+  --color-whitesmoke-200: #eee;
+  --color-whitesmoke-300: rgba(248, 249, 250, 0.5);
+  --color-whitesmoke-400: rgba(245, 245, 245, 0.6);
+  --color-darkslategray-100: #343a40;
+  --color-darkslategray-200: #333;
+  --color-gray-100: #fefefe;
+  --text-1: #212529;
+  --color-gray-200: #171725;
+  --color-gray-300: #080808;
+  --mid-emphasis: rgba(21, 25, 32, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0.5);
+  --color-gray-500: rgba(255, 255, 255, 0.68);
+  --text-3: #6c757d;
+  --low-sky-gray: rgba(86, 103, 137, 0.26);
+  --border-color: #dfe2e4;
+  --blue-sec: #ecf4ff;
+  --primary: #0063f5;
+  --s: #0066ff;
+  --color-honeydew: #d3f9d8;
+  --red: #d90429;
+  --green: #21bf73;
+  --text-title: #535353;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-7xs: 6px;
+  --padding-9xs: 4px;
+  --padding-3xs: 10px;
+  --padding-lg: 18px;
+  --padding-7xl: 26px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-5xs: 8px;
+  --br-31xl: 50px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-smi: 13px;
+  --br-9xs: 4px;
+  --br-6xs: 7px;
+  --br-32xl: 51px;
+  --br-29xl: 48px;
+  --br-7xs: 6px;
+  --br-xs: 12px;
+  --br-11xl: 30px;
+
+  /* Effects */
+  --small: 0px 2px 4px rgba(0, 0, 0, 0.08);
+  --x: -15px 40px 100px rgba(66, 0, 255, 0.08),
+    -20px 40px 100px rgba(88, 92, 98, 0.04);
+  --button-shadows-button-2dp-shadow: 0px 2px 2px rgba(50, 50, 71, 0.06),
+    0px 2px 4px rgba(50, 50, 71, 0.06);
+}

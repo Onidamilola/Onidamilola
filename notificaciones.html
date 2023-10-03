@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./notificaciones.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Source Sans Pro:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Public Sans:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Work Sans:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abril Fatface:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Karla:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="notificaciones">
+      <div class="frame">
+        <div class="frame1">
+          <div class="frame-item"></div>
+          <div class="frame2">
+            <div class="status-bar1">
+              <img
+                class="status-bar-item"
+                alt=""
+                src="./public/rectangle-21.svg"
+              />
+
+              <img class="battery-icon1" alt="" src="./public/battery.svg" />
+
+              <img class="wifi-icon1" alt="" src="./public/wifi1.svg" />
+
+              <img
+                class="mobile-signal-icon1"
+                alt=""
+                src="./public/mobile-signal1.svg"
+              />
+
+              <div class="div2">9:41</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame3">
+        <div class="rectangle"></div>
+        <div class="group-group">
+          <img
+            class="group-icon1"
+            alt=""
+            src="./public/group.svg"
+            id="groupIcon"
+          />
+
+          <div class="inicio1">Inicio</div>
+          <div class="usuario1">Usuario</div>
+          <div class="precios1">Precios</div>
+          <div class="maps1">Maps</div>
+          <div class="clima-container">
+            <div class="clima1">Clima</div>
+          </div>
+          <img
+            class="icon-nameprofile-styletrue1"
+            alt=""
+            src="./public/icon-nameprofile-styletrue-size32px.svg"
+            id="iconNameProfileStyleTrue"
+          />
+
+          <img
+            class="frame-inner"
+            alt=""
+            src="./public/frame-031.svg"
+            id="frame"
+          />
+
+          <img
+            class="chart-line-chart-up1"
+            alt=""
+            src="./public/chart--line-chart-up.svg"
+            id="chartLineChartUp"
+          />
+
+          <img
+            class="add-location-alt-icon1"
+            alt=""
+            src="./public/add-location-alt.svg"
+            id="addLocationAltIcon"
+          />
+        </div>
+        <div class="ios-notification-expanded">
+          <div class="background"></div>
+          <b class="title">Estamos despegando 🚀</b>
+          <div class="message">
+            Aumentar cuotas de importación de alimentos, estrategia para reducir
+            la inflación en México...
+          </div>
+          <img class="media-icon" alt="" src="./public/media@2x.png" />
+
+          <div class="actions">
+            <div class="action-1">Salvar Historia</div>
+            <div class="action-2">Compartir</div>
+            <div class="separator"></div>
+          </div>
+          <img
+            class="imageonline-co-transparentimag-icon"
+            alt=""
+            src="./public/imageonlinecotransparentimageremovebgpreview-4@2x.png"
+          />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var groupIcon = document.getElementById("groupIcon");
+      if (groupIcon) {
+        groupIcon.addEventListener("click", function (e) {
+          window.location.href = "./principal.html";
+        });
+      }
+      
+      var iconNameProfileStyleTrue = document.getElementById(
+        "iconNameProfileStyleTrue"
+      );
+      if (iconNameProfileStyleTrue) {
+        iconNameProfileStyleTrue.addEventListener("click", function (e) {
+          window.location.href = "./profile.html";
+        });
+      }
+      
+      var frame = document.getElementById("frame");
+      if (frame) {
+        frame.addEventListener("click", function (e) {
+          window.location.href = "./wheather.html";
+        });
+      }
+      
+      var chartLineChartUp = document.getElementById("chartLineChartUp");
+      if (chartLineChartUp) {
+        chartLineChartUp.addEventListener("click", function (e) {
+          window.location.href = "./stocks-legumbres.html";
+        });
+      }
+      
+      var addLocationAltIcon = document.getElementById("addLocationAltIcon");
+      if (addLocationAltIcon) {
+        addLocationAltIcon.addEventListener("click", function (e) {
+          window.location.href = "./map-sinaloa.html";
+        });
+      }
+      </script>
+  </body>
+</html>

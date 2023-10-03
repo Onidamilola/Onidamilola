@@ -1,0 +1,166 @@
+.group-child14 {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  border-radius: var(--br-9xs);
+  border: 2px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 56px;
+}
+.inicio8 {
+  position: absolute;
+  top: 16px;
+  left: 44px;
+  line-height: 141%;
+}
+.group-child15,
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  width: 125px;
+  height: 52px;
+}
+.rectangle-parent8 {
+  left: 146px;
+  cursor: pointer;
+}
+.group-child15 {
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+}
+.unirse1 {
+  margin: 0;
+}
+.unirse {
+  position: absolute;
+  top: 16px;
+  left: 45px;
+  line-height: 141%;
+  display: inline-block;
+  width: 47px;
+  height: 20px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 125px;
+  height: 52px;
+  cursor: pointer;
+  color: var(--color-firebrick-100);
+}
+.google-logo-icon,
+.group-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 271px;
+  height: 52px;
+}
+.google-logo-icon {
+  top: 2px;
+  width: 17.61px;
+  height: 18px;
+}
+.continuar-con-google {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  line-height: 141%;
+}
+.google-logo-parent {
+  position: absolute;
+  top: 85px;
+  left: 32px;
+  width: 190px;
+  height: 25px;
+  cursor: pointer;
+}
+.group-parent6 {
+  position: absolute;
+  top: 729px;
+  left: 64px;
+  width: 271px;
+  height: 110px;
+}
+.battery-icon2,
+.status-bar-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.battery-icon2 {
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.4%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon2 {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.mobile-signal-icon2 {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.div48 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.3px;
+  display: inline-block;
+}
+.time-style {
+  position: absolute;
+  height: 45.45%;
+  width: 14.4%;
+  top: 31.82%;
+  right: 80%;
+  bottom: 22.73%;
+  left: 5.6%;
+}
+.status-bar2 {
+  position: absolute;
+  top: 5px;
+  left: 27px;
+  width: 375px;
+  height: 44px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.imageonline-co-transparentimag-icon2 {
+  position: absolute;
+  top: 49px;
+  left: 111px;
+  width: 187px;
+  height: 166px;
+  object-fit: cover;
+}
+.principal {
+  position: relative;
+  width: 100%;
+  height: 896px;
+  overflow: hidden;
+  background-image: url(./public/principal@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+  font-family: var(--font-abel);
+}
